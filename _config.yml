@@ -3,18 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: zmh-blog
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: zmh
+language: zh-Hans
 timezone: ''
-
-base_info:
-  title: ZMH BLOG
-  author: zmh
-  url: https://zmh.dounx.me
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -108,3 +103,5 @@ theme: keep
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+all_minifier: true

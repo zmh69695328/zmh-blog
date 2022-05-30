@@ -1,0 +1,46 @@
+base_info:
+  title: ZMH
+  author: zmh
+  url: https://zmh.dounx.me/
+
+menu:
+  Home: /
+  Archives: /archives
+  Categories: /categories
+  Tags: /tags
+  # Links: /links
+  About: /about
+
+home_article:
+  category:
+    enable: true     # show category in home page article block
+    limit: 3          # max number of categories shown in home page article block
+  tag:
+    enable: true     # show tags in home page article block
+    limit: 5          # max number of tags shown in home page article block
+
+style:
+  # Theme primary color
+  #primary_color: "#0066CC"
+
+  # Avatar (You can use local image or image external link)
+  avatar: /images/myUnQb.jpg
+
+  # Favicon (You can use local image or image external link)
+  favicon: /images/favicon.ico
+
+post:
+  # Post word count
+  # Dependencies: hexo-wordcount (npm install hexo-wordcount)
+  # See: https://github.com/willin/hexo-wordcount
+  word_count:
+    enable: false
+    wordcount: false  # word count, one article
+    min2read: false   # time to read, one article
+
+  # Author label
+  author_label:
+    enable: false
+    auto: false  # if true, show Lv1, Lv2, Lv3... , If false, show custom label
+    # label array item can be one or more
+    custom_label_list: [ "Trainee", "Engineer", "Architect", "CTO", "BOSS" ]
