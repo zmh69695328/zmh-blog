@@ -1,5 +1,8 @@
 ---
 title: 根据指定宽度来对SVG内文字换行的方法探索
+date: 2022-05-30 11:48:13
+tags: [CSS]
+categories: [前端]
 ---
 ## svg 里的 text 元素不像普通 DOM 元素那样能很好地处理文本换行，所以需要特殊对待，通常是使用tspsn和foreignObject标签来包裹文字内容
 

@@ -1,3 +1,10 @@
+---
+title: 网站https配置文件模版
+date: 2023-11-14 17:08:13
+tags: [Nginx]
+categories: [配置]
+---
+
 ```
 server {
      #HTTPS的默认访问端口443。
