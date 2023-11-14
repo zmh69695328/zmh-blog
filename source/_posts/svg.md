@@ -13,3 +13,5 @@ title: 根据指定宽度来对SVG内文字换行的方法探索
 >word-wrap:break-word,例子与上面一样，但区别就是它会把congratulation整个单词看成一个整体，如果该行末端宽度不够显示整个单词，它会自动把整个单词放到下一行，而不会把单词截断掉的。
 
 来自 <https://segmentfault.com/a/1190000003710063> 
+
+

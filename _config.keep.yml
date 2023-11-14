@@ -44,3 +44,7 @@ post:
     auto: false  # if true, show Lv1, Lv2, Lv3... , If false, show custom label
     # label array item can be one or more
     custom_label_list: [ "Trainee", "Engineer", "Architect", "CTO", "BOSS" ]
+footer:
+  since: 2020 # the starting year of your website, Can be null
+  icp: 沪ICP备2023032191号-1 # ICP record number of your website, Can be null
+  copyright: 朱旻皓 # copyright
