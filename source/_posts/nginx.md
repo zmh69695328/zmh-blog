@@ -4,7 +4,6 @@ date: 2023-11-14 17:08:13
 tags: [Nginx]
 categories: [配置]
 ---
-
 ```
 server {
     listen 80;
